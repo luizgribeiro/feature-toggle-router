@@ -1,6 +1,4 @@
-import type {Config} from 'jest';
-
-const config: Config = {
+const config = {
   transform: {
     "^.+\\.(t|j)sx?$": "@swc/jest",
   },
