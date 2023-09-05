@@ -13,6 +13,9 @@
     "lint": "tsc",
     "release": "pnpm run build && changeset publish"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "",
   "license": "Apache 2",
