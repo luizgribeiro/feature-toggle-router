@@ -3,8 +3,8 @@
   "type": "module",
   "version": "0.1.0",
   "description": "",
-  "main": "main/index.js",
-  "module": "dist/index.mjs",
+  "main": "main/index.cjs",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
