@@ -1,7 +1,13 @@
 # feature-toggle-router
 
-## 0.1.1
+## 0.2.1
 
 ### Patch Changes
 
-- Release dist files with package
+- add dist folder to final published bundle
+
+## 0.2.0
+
+### Minor Changes
+
+- Initial release
